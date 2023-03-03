@@ -1,0 +1,7 @@
+{"01": {"os_installed": "Windows 7", "status": "Working"},
+  "03": {"os_installed": "Windows 11", "status": "Not Working"},
+  "04": {"os_installed": "Windows Vista", "status": "Working"},
+  "05": {"os_installed": "Mint Linux", "status": "Working"},
+  "06": {"os_installed": "Windows 11", "status": "Not Working"},
+  "07": {"os_installed": "Windows 11", "status": "Working"},
+  "10": {"os_installed": "Macintosh", "status": "Working"}}
